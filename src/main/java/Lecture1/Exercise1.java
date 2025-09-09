@@ -1,4 +1,4 @@
-package dk.cbse.jakob;
+package Lecture1;
 
 
 public class Exercise1 {

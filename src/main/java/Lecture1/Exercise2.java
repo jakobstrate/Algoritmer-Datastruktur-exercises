@@ -1,4 +1,4 @@
-package dk.cbse.jakob;
+package Lecture1;
 
 public class Exercise2 {
     public static int countChars(String str, char c) {
